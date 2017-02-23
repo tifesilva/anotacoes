@@ -7,3 +7,10 @@ TERNARIO COM 3
 
   $number=5;
 echo ( $number > 6 ) ? 1 : (( $number < 0 ) ? -1 : 0);
+
+
+EXECUTAR ARQUIVO BATS
+
+@ECHO OFF
+@BREAK OFF
+start "Carregatec 3s" C:\xampp\php\php.exe C:\xampp\htdocs\teste\teste.php
