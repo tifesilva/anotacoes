@@ -1,3 +1,9 @@
 
-TESTAR FUNCÕES
+TESTAR FUNCÃ•ES
+
   http://sandbox.onlinephpfunctions.com/
+  
+TERNARIO COM 3   
+
+  $number=5;
+echo ( $number > 6 ) ? 1 : (( $number < 0 ) ? -1 : 0);
