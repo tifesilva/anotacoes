@@ -14,6 +14,8 @@ COMANDOS:
 ZEROFILL:
 
         provoca efeitos de auto-preenchimento de espaços não utilizados em uma coluna com zeros. Digamos que temos uma tabela, que criamos        com uma coluna do tipo 
+        
+        Ex. Digamos que temos uma tabela, que criamos com uma coluna do tipo TINYINT(2) e fornecemos a seguir um INSERT como mostra a
          
       
       
