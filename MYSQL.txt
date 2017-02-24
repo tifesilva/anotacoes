@@ -4,10 +4,16 @@ COMANDOS:
  UNSIGNED:
  
       impede que a coluna que tenha, por exemplo, o tipo de dado INT armazene números negativos, ou seja,
-      valores menores que zero não serão permitidos. Quando omitimos o atributo UNSIGNED em uma coluna de tipos de dados numéricos, seu padrão é SIGNED, ou seja, permitirá valores negativos. Uma observação interessante é que uma coluna AUTO_INCREMENT sempre será automaticamente UNSIGNED, mesmo se omitirmos
+      valores menores que zero não serão permitidos. Quando omitimos o atributo UNSIGNED em uma coluna de tipos
+      de dados 
+      numéricos, seu   padrão é SIGNED, ou seja, permitirá valores negativos. Uma observação 
+      interessante é que uma coluna AUTO_INCREMENT  sempre será automaticamente UNSIGNED, mesmo se omitirmos
       o atributo na criação.
       
       
-      
+ZEROFILL:
+
+        provoca efeitos de auto-preenchimento de espaços não utilizados em uma coluna com zeros. Digamos que temos uma tabela, que criamos        com uma coluna do tipo 
+         
       
       
