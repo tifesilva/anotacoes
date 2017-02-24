@@ -1,16 +1,26 @@
 
 TESTAR FUNCÕES
+#############
 
   http://sandbox.onlinephpfunctions.com/
   
 TERNARIO COM 3   
-
+#############
   $number=5;
 echo ( $number > 6 ) ? 1 : (( $number < 0 ) ? -1 : 0);
 
 
 EXECUTAR ARQUIVO BATS
-
+#############
 @ECHO OFF
 @BREAK OFF
 start "Carregatec 3s" C:\xampp\php\php.exe C:\xampp\htdocs\teste\teste.php
+
+COOKIES
+###########
+Os cookies, arquivos criados pelos websites que você visitou, e o cache do seu navegador, memória que ajuda a carregar páginas mais rápido, facilitam a navegação na Web.
+
+Limpar o cache e os cookies do seu navegador exclui configurações de websites (como nomes de usuários e senhas) e torna alguns sites um pouco mais lentos, pois todas as imagens precisam ser carregadas novamente.
+
+CACHE
+###########
